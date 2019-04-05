@@ -5205,6 +5205,49 @@ body {
 .cid-rmN3rm9Zsh .card-title {
   color: #664573;
 }
+.cid-rmNa23YxrA {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #e5dfe7;
+}
+.cid-rmNa23YxrA .card-box {
+  padding: 0 2rem;
+}
+.cid-rmNa23YxrA .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rmNa23YxrA .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rmNa23YxrA h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rmNa23YxrA p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rmNa23YxrA .mbr-text {
+  color: #767676;
+}
+.cid-rmNa23YxrA .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #ffffff;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rmNa23YxrA .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rmNa23YxrA .card-title {
+  color: #664573;
+}
 .cid-rmHlz2SWog {
   padding-top: 60px;
   padding-bottom: 15px;
