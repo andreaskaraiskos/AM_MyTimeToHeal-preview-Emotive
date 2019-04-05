@@ -128,7 +128,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/empfindung-rs-1920-mod-85x48.png",
                 "title": "Are you searching for a safe and calm space to explore and work on emotional challenges you feel you are facing?",
                 "text": "________________________________________",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/empfindung-rs-1920-mod-960x360.jpg",
@@ -138,7 +138,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/empfindung-rs-1920-mod-85x48.png",
                 "title": "Are you searching for a safe and calm space to explore and work on emotional challenges you feel you are facing?",
                 "text": "________________________________________",
-                "active": false
+                "active": true
               }
             ],
             "fullScreen": true,
