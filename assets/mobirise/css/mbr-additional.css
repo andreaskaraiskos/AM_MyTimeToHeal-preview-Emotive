@@ -3817,8 +3817,8 @@ body {
   color: #ffffff;
 }
 .cid-rkqiJwhOxg {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 60px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-rkqiJwhOxg H3 {
@@ -3832,6 +3832,53 @@ body {
 }
 .cid-rkqiJwhOxg H1 {
   color: #2b0d38;
+  text-align: center;
+}
+.cid-rnfcBK90s8 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/artboard-14x-2000x2828.png");
+}
+.cid-rnfcBK90s8 .title {
+  padding-bottom: 2.5rem;
+}
+.cid-rnfcBK90s8 .mbr-text {
+  color: #664573;
+  margin: 0;
+  padding-top: 0.5rem;
+  text-align: left;
+}
+.cid-rnfcBK90s8 .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 2rem;
+}
+.cid-rnfcBK90s8 .iconfont-wrapper .amp-iconfont {
+  font-size: 2.5rem;
+}
+.cid-rnfcBK90s8 .wrapper {
+  display: flex;
+  padding: 1rem 0;
+}
+.cid-rnfcBK90s8 .wrapper .b-info {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rnfcBK90s8 .iconfont-wrapper {
+    display: none;
+  }
+}
+.cid-rnfcBK90s8 H5 {
+  text-align: left;
+  color: #2b0d38;
+}
+.cid-rnfcBK90s8 .mbr-text B {
+  color: #664573;
+}
+.cid-rnfcBK90s8 H2 {
+  color: #664573;
   text-align: center;
 }
 .cid-rkqCCeMfcz {
