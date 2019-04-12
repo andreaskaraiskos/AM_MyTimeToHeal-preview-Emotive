@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AM_MyTimeToHeal_RED TO PURPLE_Artwork_Lana_KK-clone",
-    "currentPage": "Contact Me.html",
+    "currentPage": "privacy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -889,7 +889,7 @@
     },
     "About Therapy.html": {
       "settings": {
-        "title": "About Therapy | Psychotherapy and Counselling | My Time To Heal",
+        "title": "About Therapy | My Time To Heal | Psychotherapy and Counselling",
         "meta_descr": "About My Therapy Services\n\nCounselling and psychotherapy offers the opportunity for you to gain a deeper understanding of your relationships, develop greater self-awareness, it often helps to put things into perspective and gives you ways to cope with changes that you may feel are impacting your world. Therapy takes place in a private and confidential setting, where you can feel safe to explore problems and have time to think and reflect on what is impacting your life.\n\nIs there a difference between psychotherapy and counselling?\nBeginning therapy.",
         "header_custom": "",
         "footer_custom": "",
@@ -1622,7 +1622,7 @@
     },
     "Fees.html": {
       "settings": {
-        "title": "Fees | Psychotherapy and Counselling | My Time To Heal",
+        "title": "Fees | My Time To Heal | Psychotherapy and Counselling",
         "meta_descr": "ABOUT FEES - My time to heal, Psychotherapy and Counselling Services",
         "header_custom": "",
         "footer_custom": "",
@@ -2607,7 +2607,7 @@
     "About Me.html": {
       "settings": {
         "meta_descr": "Making a choice about which therapist to choose can be difficult and sometimes confusing.\nMy academic qualifications include:",
-        "title": "About Me | Psychotherapy and Counselling | My Time To Heal",
+        "title": "About Me | My Time To Heal | Psychotherapy and Counselling ",
         "order": 2
       },
       "components": [
@@ -3391,7 +3391,7 @@
     },
     "Contact Me.html": {
       "settings": {
-        "title": "Contact Me | Psychotherapy and Counselling | My Time To Heal",
+        "title": "Contact Me | My Time To Heal | Psychotherapy and Counselling",
         "meta_descr": "CONTACT DETAILS - My time to heal, Psychotherapy and Counselling Services\n\nphone:\n+44 (0)7842 527 561\nemail:\nenquiries@mytimetoheal.co.uk\n\nThe Practice is easily accessible from most Central and Greater London locations either via tube, rail or road.",
         "header_custom": "",
         "footer_custom": "",
@@ -4205,7 +4205,7 @@
     "privacy.html": {
       "settings": {
         "meta_descr": "my time to heal - Web Site and GDPR Privacy Statement",
-        "title": "Privacy Statement | Psychotherapy and Counselling | My Time To Heal",
+        "title": "Privacy Statement | My Time To Heal | Psychotherapy and Counselling",
         "order": 6
       },
       "components": [
@@ -4796,7 +4796,7 @@
     },
     "Mental Health Support and Crisis Information.html": {
       "settings": {
-        "title": "Support and Crisis Information | Psychotherapy and Counselling | My Time To Heal",
+        "title": "Support and Crisis Information | My Time To Heal | Psychotherapy and Counselling",
         "meta_descr": "Mental Health Support and Crisis Information -  My time to heal, Psychotherapy and Counselling Services\nMental Health Crisis Lines\nLISTED Charities that may offer some additional telephone support during difficult moments.",
         "header_custom": "",
         "footer_custom": "",
