@@ -128,7 +128,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/empfindung-rs-1920-mod-85x48.png",
                 "title": "Are you searching for a safe and calm space to explore and work on emotional challenges you feel you are facing?",
                 "text": "________________________________________",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/empfindung-rs-1920-mod-960x360.jpg",
@@ -138,7 +138,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/empfindung-rs-1920-mod-85x48.png",
                 "title": "Are you searching for a safe and calm space to explore and work on emotional challenges you feel you are facing?",
                 "text": "________________________________________",
-                "active": true
+                "active": false
               }
             ],
             "fullScreen": true,
@@ -914,7 +914,7 @@
             },
             ".mbr-text": {
               "text-align": "center",
-              "color": "#c3b8c7"
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "text-align": "left",
@@ -1647,7 +1647,7 @@
             },
             ".mbr-text": {
               "text-align": "center",
-              "color": "#c3b8c7"
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "text-align": "left",
@@ -2628,7 +2628,7 @@
             },
             ".mbr-text": {
               "text-align": "center",
-              "color": "#c3b8c7"
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "text-align": "left",
@@ -4230,7 +4230,7 @@
             },
             ".mbr-section-subtitle": {
               "text-align": "center",
-              "color": "#c3b8c7"
+              "color": "#ffffff"
             },
             "SPAN": {
               "color": "#e5dfe7"
@@ -4820,7 +4820,7 @@
             },
             ".mbr-text": {
               "text-align": "center",
-              "color": "#c3b8c7"
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "text-align": "left"
