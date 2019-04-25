@@ -54,10 +54,11 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "google-analytics": "",
-    "siteUrl": "",
+    "siteUrl": "http://www.mytimetoheal.co.uk",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -127,7 +128,7 @@
                 "src": "@PROJECT_PATH@/assets/images/empfindung-rs-1920-mod-1512x1080.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/empfindung-rs-1920-mod-85x48.png",
                 "title": "Are you searching for a safe and calm space to explore and work on emotional challenges you feel you are facing?",
-                "text": "________________________________________",
+                "text": "_____________________________",
                 "active": true
               },
               {
@@ -137,7 +138,7 @@
                 "src": "@PROJECT_PATH@/assets/images/empfindung-rs-1920-mod-1512x1080.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/empfindung-rs-1920-mod-85x48.png",
                 "title": "Are you searching for a safe and calm space to explore and work on emotional challenges you feel you are facing?",
-                "text": "________________________________________",
+                "text": "_____________________________",
                 "active": false
               }
             ],
@@ -165,7 +166,8 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-5d"
+          "_anchor": "wowslider-5d",
+          "_customCSS": ".ws-title { \n    font: 3em \"Raleway\"; \n}"
         },
         {
           "_styles": {
@@ -1765,7 +1767,7 @@
             }
           },
           "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#8d629e\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e5dfe7\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul><li><b>Initial consultation - </b>£60</li><li><b>Weekly 50 minutes sessions - </b>£60 per session</li><li><b>Students and those of a pensionable age - </b>£40 per session</li></ul><div><br></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#8d629e\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e5dfe7\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul><li><b>Initial consultation - </b>£60</li><li><b>Weekly 50 minutes sessions - </b>£60 per session</li><li><b>Emergency Services Personnel and NHS staff</b> - £45</li><li><b>Students and those of a pensionable age - </b>£40 per session</li></ul><div><br></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content12-5a",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -2813,7 +2815,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>I have always</b> had a passion for working with people. Before working as a psychotherapist and counsellor, my career in the corporate environment centred around working closely with teams and individuals, helping them progress and develop in their chosen careers.  I managed small and large customer facing teams, training them, developing their skills and nurturing their talents to help them achieve their maximum potential. &nbsp;</p><p><b>Being able to witness</b> first-hand how simply giving people time to express themselves, notice their abilities, support them through their challenges, listen to them, encourage them to see their full potential and believe in them, highlighted to me that helping people through psychotherapy and counselling can have an even more profound impact on a individuals well-being.</p><p><b>I would like to offer you </b>the same time and space to explore the things that you might feel are troubling you. For those moments where perhaps simply talking to friends or family doesn’t seem to help.&nbsp;</p><p><b>Sometimes it is hard</b> to have your voice heard, to find someone to give you the time you need to express yourself, to be able to truly say what is on your mind without that fear of how someone else might judge your thoughts. Psychotherapy and counselling will offer you exactly that. A chance to be yourselves, to have the space to think, to find clarity, to explore your emotions, to find courage to change, to become hopeful – a chance to find ‘you’.</p><p><span style=\"font-size: 1rem;\"><b>If this opportunity</b> to have space to explore what’s going on for you sounds like something you would like to experience, then please feel free to <a href=\"Contact Me.html#contacts3-6d\">contact me.</a></span><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>I have always</b> had a passion for working with people. Before working as a psychotherapist and counsellor, my career in the corporate environment centred around working closely with teams and individuals, helping them progress and develop in their chosen careers.  I managed small and large customer facing teams, training them, developing their skills and nurturing their talents to help them achieve their maximum potential. &nbsp;</p><p><b>Being able to witness</b> first-hand how simply giving people time to express themselves, notice their abilities, support them through their challenges, listen to them, encourage them to see their full potential and believe in them, highlighted to me that helping people through psychotherapy and counselling can have an even more profound impact on a individuals well-being.</p><p><b>I would like to offer you </b>the same time and space to explore the things that you might feel are troubling you. For those moments where perhaps simply talking to friends or family doesn’t seem to help.&nbsp;</p><p><b>Sometimes it is hard</b> to have your voice heard, to find someone to give you the time you need to express yourself, to be able to truly say what is on your mind without that fear of how someone else might judge your thoughts. Psychotherapy and counselling will offer you exactly that. A chance to be yourselves, to have the space to think, to find clarity, to explore your emotions, to find courage to change, to become hopeful – a chance to find ‘you’.</p><p><span style=\"font-size: 1rem;\"><b>If this opportunity</b> to have space to explore what’s going on for you sounds like something you would like to experience, then please feel free to <a href=\"Contact Me.html#contacts3-6d\"><b>contact me.</b></a></span><br></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-o",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
